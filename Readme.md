@@ -9,9 +9,10 @@
 | 06. | [Software Engineering (SE)](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/5%5D.%20Software%20Engineering%20(SE)) |
 | 07. | [Object Oriented Design](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design) |
 | 08. | [Compiler Design](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/6%5D.%20Compiler%20Design) |
-| 09. | [Case Studys](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) |
-| 10. | [Object Oriented Design](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/01%5D.%20Object%20Oriented%20Design) |
-| 11. | [Case Studys](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) |
-| 12. | [Case Studys](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) |
-| 13. | [Case Studys](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/7%5D.%20Low%20Level%20Design%20for%20SDE%201/02%5D.%20Case%20Study) |
+| 09. | [Projects & Tech Skills](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/8%5D.%20Projects%20%26%20Tech%20Skills) |
+| 10. | [Important Books and Resources](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/9%5D.%20Important%20Books%20and%20Resources) |
+| 11. | [Behavioural Interview](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/10%5D.%20Behavioural%20Interview) |
+| 12. | [Miscellaneous Stuff](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/11%5D.%20Miscellaneous%20Stuff) |
+| 13. | [Blogs](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/Blogs) |
+| 14. | [Interview QUestions](https://github.com/mrpawan-gupta/Technical-Subjects/tree/master/Interview%20Questions) |
 
